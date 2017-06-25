@@ -16,7 +16,7 @@ abstract class Main {
      * The main method.
      *
      * @param args
-     *      the arguments
+     *      the argument
      * @throws Exception
      *      print the stack of exception
      */
